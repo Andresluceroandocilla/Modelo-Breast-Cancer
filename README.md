@@ -26,4 +26,4 @@ sklearn.ensemble.RandomForestClassifier
 •	Accuracy score test 98%
 •	Precision score malignant 98%
 •	Precision score benignant 98%
-Se elige al modelo de Random forest como el mejor modelos ya que se obtiene un 98% de precisión en evaluación test minimizando el riesgo de falsos negativos.
+Se elige al modelo de Random forest como el mejor modelos ya que se obtiene un 98% de precisión en evaluación test minimizando el riesgo de falsos negativos. La variable más importante para la clasificación es el perimeter_worst.
